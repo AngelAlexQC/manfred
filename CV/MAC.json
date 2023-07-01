@@ -1,0 +1,256 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Ángel",
+      "surnames": "Quiroz",
+      "title": "Desarrollador Full Stack",
+      "description": "Desde que era niño, he sido curioso y apasionado por la informática y la programación. La tecnología siempre ha sido parte de mi vida y disfruto creando soluciones con código. Me gusta afrontar retos técnicos que me permitan aprender y crecer como desarrollador. Como Desarrollador Full Stack, me siento cómodo trabajando en diferentes áreas, desde el backend hasta el frontend, y me motiva trabajar en equipo y hacer pair programming para poder aportar al proyecto desde diferentes perspectivas. Considero que mi mayor fortaleza es la capacidad de adaptarme a las necesidades del proyecto y a los cambios en el mercado, siempre con el objetivo de crear productos de calidad que satisfagan las necesidades del usuario final. Estoy comprometido con el desarrollo de soluciones innovadoras y sostenibles que impacten positivamente en la sociedad.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/01/4d1938fa-deaf-42e3-b8a6-668def4c8149_angel-profile.jpeg",
+        "alt": "Angel Profile.jpeg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ1UuaqN2HI5ARAjecEQSvdp0)",
+        "country": "Ecuador"
+      }
+    }
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bitbucket",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github Actions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GraphQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniero en Sistemas Informáticos",
+        "startDate": "2015-05-01",
+        "institution": {
+          "name": "Universidad Técnica de Manabí"
+        },
+        "finishDate": "2021-10-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de abstracción",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/aquirozdev",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "aquirozdev@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "985613152",
+          "countryCode": "+593"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Redux",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Angular2+",
+        "type": "technology"
+      },
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi trabajo ideal es aquel en el que pueda aplicar mis habilidades técnicas y mi experiencia para aportar valor y calidad a los productos y servicios de la empresa. \nBusco un ambiente de trabajo desafiante y colaborativo, en el que pueda trabajar junto a colegas más experimentados y aprender de ellos para continuar desarrollando mis habilidades profesionales. \nConsidero importante que el esfuerzo y la dedicación sean recompensados y reconocidos de manera justa, tanto en términos de crecimiento profesional como económico. \nAsimismo, busco una empresa que fomente el crecimiento personal y profesional de sus empleados, y que ofrezca un ambiente de trabajo respetuoso, acogedor y estimulante en el que pueda desarrollarme como profesional y contribuir al éxito de la empresa.",
+    "goodPractices": "En mi labor como Desarrollador siempre busco aplicar las mejores prácticas, tanto en lo que respecta a la teoría como a la práctica. Para ello, me mantengo actualizado y en constante aprendizaje sobre los principios básicos y avanzados de la programación, y busco aplicarlos de manera efectiva en cada proyecto en el que trabajo.\n\nAdemás, creo que la comunicación efectiva es una de las claves para un buen desarrollo de software, por lo que siempre busco trabajar en equipo y mantener una comunicación clara y constante con los miembros del equipo. También soy consciente de la importancia de la documentación en el proceso de desarrollo, y trato de mantener una documentación clara y completa que sirva como guía para otros desarrolladores.\n\nEn cuanto al código en sí, me esfuerzo por aplicar las mejores prácticas de programación, incluyendo la modularización y el uso de patrones de diseño que permitan un código más limpio, legible, testable y escalable. También me preocupo por mantener la seguridad y el rendimiento del software, realizando pruebas y optimizando el código en la medida de lo posible.\n\nFinalmente, siempre busco estar al tanto de las tendencias y tecnologías emergentes, de manera que pueda aplicarlas en futuros proyectos y mantener un enfoque innovador en mi trabajo."
+  }
+}
